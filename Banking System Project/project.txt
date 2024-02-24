@@ -1,0 +1,8 @@
+{'ReserveBank': [10000, 2500200], 'StateBank': [8000, 2000200], 'TamilNadu': [6500, 1600200], 'ChennaiBank': [5000, 1300000]}
+{'ReserveBank': [10000, 2500533], 'StateBank': [8000, 2000533], 'TamilNadu': [6500, 1600533], 'ChennaiBank': [5000, 1300000]}
+{'ReserveBank': [10000, 2501000], 'StateBank': [8000, 2001000], 'TamilNadu': [6500, 1601000], 'ChennaiBank': [5000, 1300000]}
+{'ReserveBank': [10000, 1201000], 'StateBank': [8000, 701000], 'TamilNadu': [6500, 301000], 'ChennaiBank': [5000, 1300000]}
+{'ReserveBank': [10000, 2002000], 'StateBank': [8000, 1502000], 'TamilNadu': [6500, 1102000], 'ChennaiBank': [5000, 1300000]}
+{'ReserveBank': [10000, 2052000], 'StateBank': [8000, 1552000], 'TamilNadu': [6500, 1152000], 'ChennaiBank': [5000, 1300000]}
+{'ReserveBank': [10000, 2502000], 'StateBank': [8000, 2002000], 'TamilNadu': [6500, 1602000], 'ChennaiBank': [5000, 1300000]}
+{'ReserveBank': [10000, 2502500], 'StateBank': [8000, 2002500], 'TamilNadu': [6500, 1602500], 'ChennaiBank': [5000, 1300000]}
